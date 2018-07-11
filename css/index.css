@@ -3,18 +3,18 @@ h1 {
 }
 
 .text {
-	text-align: center;
-	color:black;
-	font-size: 150%
+    text-align: center;
+    color:black;
+    font-size: 150%
 }
 .image {
-	content: ""
-	top: 0;
+    content: ""
+    top: 0;
     bottom: 0;
     left: 0;
     right: 0;
-	background: url(https://i.imgur.com/F12BCnc.png) center;
-	height: 200px;
+    background: url(https://i.imgur.com/7KPw3AO.png) center;
+    height: 200px;
 }
 
 nav {
